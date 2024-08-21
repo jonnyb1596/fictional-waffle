@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" group-title="Undefined",Be Mad (1080p)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",Canal 24 Horas (720p)
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-logo="https://i.imgur.com/VZjtGvm.png" group-title="General",Canal Sur Andalucía 2 (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/fJhkyZP.png" group-title="General",Canal Sur Andalucía (1080p) [Not 24/7]
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="COSMO.es" tvg-logo="https://i.imgur.com/L2KKKuB.png" group-title="Undefined",COSMO (1080p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="General",Cuatro (1080p)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Kids",Disney Channel (432p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Lifestyle",Divinity (432p)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://i.imgur.com/NxDHI6Y.png" group-title="Entertainment",Energy (432p)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia (1080p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",La 2 (1080p)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="LaFabricaTV.es" tvg-logo="https://i.imgur.com/6p0oPfq.png" group-title="Undefined",La Fábrica TV (720p) [Not 24/7]
+https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Undefined",La Sexta (1080p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="OndaAlgeciras.es" tvg-logo="https://i.imgur.com/kUhFkVF.png" group-title="Undefined",Onda Algeciras TV (576p)
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
